@@ -1,0 +1,22 @@
+.siteHeader{
+    height: 50vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.underline{
+    display:inline-block;
+    padding-bottom: 5px;
+    border-bottom: 5px solid black;
+}
+
+#textLeft{
+    text-align: left;
+}
+
+.listFeatures{
+    list-style-type: none;
+}
