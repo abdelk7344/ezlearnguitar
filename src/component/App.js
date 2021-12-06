@@ -11,8 +11,8 @@ function App() {
   return (
     <div class="container">
       <Header/>
-      <Setup/>
       <Features/>
+      <Setup/>
       <Demo/>
       <Blog/>
       <About/>

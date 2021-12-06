@@ -7,7 +7,7 @@ function Demo(){
     return(
         <>
             <div className="text-center">
-                <h2 className="underline">Application Demo</h2>
+                <h2 className="underline">Features Demo</h2>
                 <Row className="mt-4">
                     <Col>
                         <Video title="Learn Chords(Tap To Change)" link="https://www.youtube.com/embed/YEhbamJPJP0"/>
