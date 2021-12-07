@@ -18,7 +18,7 @@ function Features(){
                 </Col>
                 <Col>
                     <h5>Learn Songs <FontAwesomeIcon icon={faMusic} /></h5>
-                    <p>Are you too good for Chords? Then, lets get jamming. We offer three songs on the application: Happy Birthday, Free Fallin', and Lean on Me. The first two are a bit more easier, but where there is music there is a way!</p>
+                    <p>Are you too good for chords? Then, lets get jamming. We offer three songs on the application: Happy Birthday, Free Fallin', and Lean on Me. The first two are a bit more easier, but where there is music there is a way!</p>
                 </Col>
             </Row>
         </div>
