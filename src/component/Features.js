@@ -10,7 +10,7 @@ function Features(){
             <Row className="mt-4 mb-4 text-center">
                 <Col>
                     <h5>Learn Chords <FontAwesomeIcon icon={faPencilAlt} /></h5>
-                    <p>Chord up! There are 5 chords you can learn on the appliation. You can tap to change bettween chords or choose the auto switch option with your prefered speed setting. </p>
+                    <p>Chord up! There are 5 chords you can learn on the application. You can tap to change bettween chords or choose the auto switch option with your prefered speed setting. </p>
                 </Col>
                 <Col>
                     <h5>See Specfic Chords <FontAwesomeIcon icon={faEye} /></h5>
