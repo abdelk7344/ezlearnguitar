@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ezlearnguitar/static/css/main.aa038f22.chunk.css",
-    "main.js": "/ezlearnguitar/static/js/main.e9914ca8.chunk.js",
-    "main.js.map": "/ezlearnguitar/static/js/main.e9914ca8.chunk.js.map",
+    "main.js": "/ezlearnguitar/static/js/main.44aff1b1.chunk.js",
+    "main.js.map": "/ezlearnguitar/static/js/main.44aff1b1.chunk.js.map",
     "runtime-main.js": "/ezlearnguitar/static/js/runtime-main.a2243813.js",
     "runtime-main.js.map": "/ezlearnguitar/static/js/runtime-main.a2243813.js.map",
     "static/css/2.383c0125.chunk.css": "/ezlearnguitar/static/css/2.383c0125.chunk.css",
@@ -18,6 +18,6 @@
     "static/css/2.383c0125.chunk.css",
     "static/js/2.c0fbea63.chunk.js",
     "static/css/main.aa038f22.chunk.css",
-    "static/js/main.e9914ca8.chunk.js"
+    "static/js/main.44aff1b1.chunk.js"
   ]
 }
