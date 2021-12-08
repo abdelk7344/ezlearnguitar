@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/ezlearnguitar/static/css/main.aa038f22.chunk.css",
-    "main.js": "/ezlearnguitar/static/js/main.44aff1b1.chunk.js",
-    "main.js.map": "/ezlearnguitar/static/js/main.44aff1b1.chunk.js.map",
-    "runtime-main.js": "/ezlearnguitar/static/js/runtime-main.a2243813.js",
-    "runtime-main.js.map": "/ezlearnguitar/static/js/runtime-main.a2243813.js.map",
+    "main.js": "/ezlearnguitar/static/js/main.991d23b7.chunk.js",
+    "main.js.map": "/ezlearnguitar/static/js/main.991d23b7.chunk.js.map",
+    "runtime-main.js": "/ezlearnguitar/static/js/runtime-main.730e094e.js",
+    "runtime-main.js.map": "/ezlearnguitar/static/js/runtime-main.730e094e.js.map",
     "static/css/2.383c0125.chunk.css": "/ezlearnguitar/static/css/2.383c0125.chunk.css",
-    "static/js/2.c0fbea63.chunk.js": "/ezlearnguitar/static/js/2.c0fbea63.chunk.js",
-    "static/js/2.c0fbea63.chunk.js.map": "/ezlearnguitar/static/js/2.c0fbea63.chunk.js.map",
+    "static/js/2.30b22690.chunk.js": "/ezlearnguitar/static/js/2.30b22690.chunk.js",
+    "static/js/2.30b22690.chunk.js.map": "/ezlearnguitar/static/js/2.30b22690.chunk.js.map",
     "index.html": "/ezlearnguitar/index.html",
     "static/css/2.383c0125.chunk.css.map": "/ezlearnguitar/static/css/2.383c0125.chunk.css.map",
     "static/css/main.aa038f22.chunk.css.map": "/ezlearnguitar/static/css/main.aa038f22.chunk.css.map",
-    "static/js/2.c0fbea63.chunk.js.LICENSE.txt": "/ezlearnguitar/static/js/2.c0fbea63.chunk.js.LICENSE.txt"
+    "static/js/2.30b22690.chunk.js.LICENSE.txt": "/ezlearnguitar/static/js/2.30b22690.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a2243813.js",
+    "static/js/runtime-main.730e094e.js",
     "static/css/2.383c0125.chunk.css",
-    "static/js/2.c0fbea63.chunk.js",
+    "static/js/2.30b22690.chunk.js",
     "static/css/main.aa038f22.chunk.css",
-    "static/js/main.44aff1b1.chunk.js"
+    "static/js/main.991d23b7.chunk.js"
   ]
 }
